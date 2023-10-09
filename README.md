@@ -3,7 +3,7 @@
 ## JS Variables
 
 In JavaScript, we can declare variable using three different keywords:
-* var : create a variable globally available throughoutt the programs.
+* var : create a variable globally available throughout the programs.
 * let : create a variable available just the block of code declared, as if statement or function
 * const : create a read-only reference to a value. 
 
