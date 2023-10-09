@@ -2,12 +2,12 @@
 
 ## JS Variables
 
-In JavaScript, we can declare varible using three different keywords:
-* var : create a variable globally availale throught the program
+In JavaScript, we can declare variable using three different keywords:
+* var : create a variable globally available throughoutt the programs.
 * let : create a variable available just the block of code declared, as if statement or function
 * const : create a read-only reference to a value. 
 
-Create a variabole called carName and assign the value Volvo to it.
+Create a variable called carName and assign the value Volvo to it.
 ```
 var carName = "Volvo";
 ```
@@ -15,20 +15,20 @@ Create a variable called X, assign the value 50 to it:
 ```
 var x  = 50;
 ```
-Display the sum of 5+10, using the varuable: x and y
+Display the sum of 5+10, using the variable: x and y
 ```
 var x = 5;
 var y = 10;
 document.gtElementById("demo").innerHTML = x + y;
 ```
-Create a varialbe called Z, assign x+y to it, and display the result in an alert box
+Create a variable called Z, assign x+y to it, and display the result in an alert box
 ```
 var x  = 5;
 var y = 10;
 var z = x + y;
 alert(z);
 ```
-On one sigle line, declare threee variable with the following names and values:
+On one single line, declare three variable with the following names and values:
 * firstName = "John"
 * lastName = "Doe"
 * age = 35
@@ -212,7 +212,7 @@ We are \"Vikings\"";
 alert(txt);
 ```
 
-Conceteate the two string to alert "Hello World"!
+Concatenate the two string to alert "Hello World"!
 ```
 var str1 = "Hello ";
 var str2 = "World";
